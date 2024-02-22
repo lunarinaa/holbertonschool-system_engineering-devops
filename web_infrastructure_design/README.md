@@ -63,3 +63,5 @@ Upon completing this project, you should be able to:
 **Files:**
 - [3-scale_up](3-scale_up)
 
+## Note
+The files contain link to the actual diagrams
